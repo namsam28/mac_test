@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div className="App">
-      ㄴㅇㄹㅎㄴㅇㄹㅎ
+      git push 해보기
     </div>
   );
 }
